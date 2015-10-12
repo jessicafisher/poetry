@@ -2,25 +2,28 @@ The first line instantiates
 a world object, distributes 
 leaves conically around 
 what I addressed as tree,
-some rigidish cylinder.
+some rigidish cylinder.       rigidish is awkward—rigid better in my book
 Some cried for rain.
 In stranger suburbs
-I cried with joy when
+I cried with joy when         cried with repeats too strongly perhaps line 6—shouted?
 everything went silhouette,
-everything mannequin.
+everything mannequin.         (not sure that the move from silhouette to mannequein feels earned, here—rep of everything not enough)
 I was standing outside
 an inside, maybe I saw
 illuminated a square pane
 within, a television set     
 to stun, maybe a floor lamp    
-to glow with sympathy.
+to glow with sympathy.        I love this sentence but not so much the last line--could be less expected
+
+
+the final stanza doesn't seem to fully fit, to me—though I like much of the writing. Perhaps a different section?
 
 The sun a primitive solid,
 the bounding sphere 
 delights an individual flower
 either green or yellow or
 green and yellow both.     
-As purple and orange wait
+As purple and orange wait         lines 26-30 are weaker for me—I'm interested in the yellow/green bit but the other colors intrude and feel less motivated.... there's something to salvage in the final lines but again the tone isn't quite right yet, for me.
 to emerge the distinction
 between them and gray
 significant values were
